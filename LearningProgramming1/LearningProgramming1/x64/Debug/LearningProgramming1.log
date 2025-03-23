@@ -1,0 +1,3 @@
+﻿  LearningProgramming1.cpp
+E:\c++\learning1\LearningProgramming1\LearningProgramming1\LearningProgramming1.cpp(11,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  LearningProgramming1.vcxproj -> E:\c++\learning1\LearningProgramming1\x64\Debug\LearningProgramming1.exe

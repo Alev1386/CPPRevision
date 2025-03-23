@@ -1,0 +1,3 @@
+﻿  FirstStructure.cpp
+E:\c++\learning1\FirstStructure\FirstStructure\FirstStructure.cpp(18,15): warning C4305: =: усечение из "double" в "float"
+  FirstStructure.vcxproj -> E:\c++\learning1\FirstStructure\x64\Debug\FirstStructure.exe
